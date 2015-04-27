@@ -323,6 +323,7 @@ nav li:nth-child(5) a {
   box-sizing: border-box;
   float: left;
   position: relative;
+  margin-bottom: -2px;
 }
 /* line 201, ../sass/common/_main.scss */
 .mywork-section section div {
